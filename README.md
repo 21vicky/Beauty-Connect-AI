@@ -86,5 +86,5 @@ Toni & Guy · Mirrors · Alchemic · BarberCo · Straight Salon · Studio 11 · 
 
 ---
 
-Built by **Sri Thirumalai Vasan S** for **SuperXgen AI Startup Buildathon 2026**
+Built by ** Vignesh U,Sri Thirumalai Vasan S,RameshBabu V** for **SuperXgen AI Startup Buildathon 2026**
 
