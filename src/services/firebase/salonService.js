@@ -5,8 +5,14 @@
  * USE_MOCK = false → Firestore (seed first via /admin)
  */
 import {
-  collection, getDocs, getDoc, doc,
-  addDoc, query, where, orderBy, serverTimestamp,
+  collection,
+  getDocs,
+  getDoc,
+  doc,
+  addDoc,
+  query,
+  where,
+  serverTimestamp,
 } from "firebase/firestore";
 import { db } from "./firebaseConfig";
 import { MOCK_SALONS } from "../api/mockData";
