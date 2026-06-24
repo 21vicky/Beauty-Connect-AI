@@ -1,6 +1,20 @@
+## 🌐 Live Demo
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Glamr%20%E2%80%94%20Beauty%20Connect%20AI&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI-Powered%20Beauty%20Salon%20Marketplace%20%7C%20Bangalore&descAlignY=62&descSize=16" alt="Glamr Banner"/>
+  <a href="https://beauty-connect-ai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Glamr-F472B6?style=for-the-badge" alt="Live Demo"/>
+  </a>
 </p>
+
+<p align="center">
+  🔗 <strong>Live Website:</strong><br>
+  <a href="https://beauty-connect-ai.vercel.app/">
+    https://beauty-connect-ai.vercel.app/
+  </a>
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=AI-Powered+Beauty+Salon+Marketplace+%F0%9F%92%84;43+Premium+Salons+across+Bangalore+%F0%9F%8C%86;React+%2B+Firebase+%2B+MVC+Architecture+%F0%9F%9A%80;Built+for+SuperXgen+AI+Startup+Buildathon+2026+%F0%9F%8F%86" alt="Typing SVG"/>
