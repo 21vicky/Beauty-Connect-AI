@@ -197,8 +197,8 @@ Built with 💜 for the **SuperXgen AI Startup Buildathon 2026**
 
 | Name | Role | GitHub |
 |---|---|---|
-| Vignesh U | Full Stack & AI Integration | [@2lvicky](https://github.com/21vicky) |
-| Sri Thirumalai Vasan S | Frontend & UI/UX | [@Sri-Thirumalaivasan] (https://github.com/Sri-Thirumalaivasan)|
+| Vignesh U | Full Stack & AI Integration | [@21vicky](https://github.com/21vicky) |
+| Sri Thirumalai Vasan S | Frontend & UI/UX | [@Sri-Thirumalaivasan](https://github.com/Sri-Thirumalaivasan) |
 | Ramesh Babu V | Frontend & Firebase | [@Ramesh118-hue](https://github.com/Ramesh118-hue) |
 
 ---
